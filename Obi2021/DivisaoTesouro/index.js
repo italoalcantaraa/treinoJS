@@ -15,7 +15,6 @@
 // 3 ≤ A ≤ 10000
 // 1 ≤ N ≤ 1000
 
-
 import prompt from 'prompt-sync';
 let ler = prompt();
 

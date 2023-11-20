@@ -12,7 +12,6 @@
 import prompt from 'prompt-sync';
 let ler = prompt();
 
-
 console.log('Informe a posiçao do veículo A');
 let A = Number(ler());
 
